@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Artur Walaszczyk
 - 👀 I’m interested in electrical engineering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and improving my skills on codewars
+
 
 ![Codewars](https://github.r2v.ch/codewars?user=arturvv100)
 
