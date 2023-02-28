@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Artur Walaszczyk
-- 👀 I’m interested in electrical engineering
+- 👀 I’m interested in electrical engineering and programming
 - 🌱 I’m currently learning python and improving my skills on codewars
 
 
